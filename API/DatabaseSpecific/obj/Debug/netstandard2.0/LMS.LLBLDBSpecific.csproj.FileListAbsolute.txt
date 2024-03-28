@@ -1,0 +1,11 @@
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\bin\Debug\netstandard2.0\LMS.LLBLDBSpecific.dll.config
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\bin\Debug\netstandard2.0\LMS.LLBLDBSpecific.deps.json
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\bin\Debug\netstandard2.0\LMS.LLBLDBSpecific.dll
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\bin\Debug\netstandard2.0\LMS.LLBLDBSpecific.pdb
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.csproj.AssemblyReference.cache
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.GeneratedMSBuildEditorConfig.editorconfig
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.AssemblyInfoInputs.cache
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.AssemblyInfo.cs
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.csproj.CoreCompileInputs.cache
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.dll
+C:\drive d\Drive C\Desktop\Meterials\Coding\LMS\API\DatabaseSpecific\obj\Debug\netstandard2.0\LMS.LLBLDBSpecific.pdb

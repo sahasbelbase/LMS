@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVGSUdUETZ8htjbWDDw/HhrkcFDHNSGQ3yvFkRwvyPoHBW2x4oEiv6+txYOQwLn1nbMJNwxBJIp4pZr9AzcmsQ==",
+  "success": true,
+  "projectFilePath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\LMS\\API\\DatabaseSpecific\\LMS.LLBLDBSpecific.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Delta\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Delta\\.nuget\\packages\\sd.llblgen.pro.dqe.sqlserver\\5.9.0\\sd.llblgen.pro.dqe.sqlserver.5.9.0.nupkg.sha512",
+    "C:\\Users\\Delta\\.nuget\\packages\\sd.llblgen.pro.ormsupportclasses\\5.9.0\\sd.llblgen.pro.ormsupportclasses.5.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
